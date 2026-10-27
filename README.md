@@ -7,8 +7,8 @@ A collection of AI and machine learning experiments exploring Hugging Face model
 ```
 all_huggingface/
 │
-├── Graph_Rag/
-│   └── Graph-based retrieval experiments
+├── embedding_model_evaluation/
+│   └── Embeddings retrieval experiments
 │
 ├── icon/
 │   └── Icon and visual assets
